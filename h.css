@@ -1,0 +1,40 @@
+h1
+{
+  background:blanchedalmond;
+    color: aqua;
+    font-size: 40px;
+    font-family: cursive;
+    border-bottom-color: chartreuse;
+}
+h2{
+    color: blue;
+    font-display: block;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
+}
+.alphatext
+{
+    color:black;
+}
+#aboutcss
+{
+    color: aqua;
+}
+.chat {
+    width:25%;
+    float:right;
+    top:0;
+    left:0;
+}
+
+.ch {
+    width:75%;
+    float:left;
+}
+
+h1 {
+    color: blue;
+}
